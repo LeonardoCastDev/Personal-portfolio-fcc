@@ -148,6 +148,7 @@ h2 {
 @media screen and (max-width: 450px) {
   #navbar {
     font-size: 18px;
+    height: 60px;
   }
 
   .home-link {
@@ -176,6 +177,7 @@ h2 {
     font-size: 30px;
     padding: 50px 10px 0 30px;
     height: 100vh;
+    margin-top: 60px;
     align-items: flex-start;
   }
 }
